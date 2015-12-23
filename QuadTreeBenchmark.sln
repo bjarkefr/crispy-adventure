@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreeBenchmark", "QuadTreeBenchmark\QuadTreeBenchmark.csproj", "{2AD22283-4167-423F-89F3-4C33FFC219FC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "QuadTreeBenchForMarking", "QuadTreeBenchForMarking\QuadTreeBenchForMarking.fsproj", "{8D934EB0-A315-4444-A003-4CB95656988C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD22283-4167-423F-89F3-4C33FFC219FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD22283-4167-423F-89F3-4C33FFC219FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD22283-4167-423F-89F3-4C33FFC219FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD22283-4167-423F-89F3-4C33FFC219FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D934EB0-A315-4444-A003-4CB95656988C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D934EB0-A315-4444-A003-4CB95656988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D934EB0-A315-4444-A003-4CB95656988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D934EB0-A315-4444-A003-4CB95656988C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
